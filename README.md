@@ -1,5 +1,11 @@
 # Blox Manager
 This is a Discord Bot.
+Bot Name: `Blox Manager` 
+Roblox Bot Account: `Blox_ManagerBot` 
+Version: `3.7.3`
+Language: `Korean`
+How To Contact Developer: `easytopy` <-- Discord ID
+
 ---
 #### Since 2020. 9. 10
 ###### Bot Name & Bot Account Change
@@ -14,10 +20,10 @@ D -- Requests --> B
 B --Requests --> A
 ```
 # Links
-[Blox Manager Discord App Directory](https://discord.com/application-directory/1160070137580363787)
-[Blox Manager Guide - YouTube](https://www.youtube.com/@BloxManager)
-[Blox Manager Wiki - GitBook](https://wiki.blox-manager.kro.kr/)
-[Support Community - Discord](https://discord.gg/ANeNwBAt7m)
+- [Blox Manager Discord App Directory](https://discord.com/application-directory/1160070137580363787)
+- [Blox Manager Guide - YouTube](https://www.youtube.com/@BloxManager)
+- [Blox Manager Wiki - GitBook](https://wiki.blox-manager.kro.kr/)
+- [Support Community - Discord](https://discord.gg/ANeNwBAt7m)
 ## Commands
 ```mermaid
 graph LR
