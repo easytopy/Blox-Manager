@@ -1,5 +1,12 @@
 # Blox Manager
 - This is a Discord Bot.
+#### Bot Status
+- Serer DataBase: 700+
+- Authenticator DataBase: 10k+
+- Premium Server: 150+
+- Joined Server: 550+
+
+---
 - Bot Name: `Blox Manager` 
 - Roblox Bot Account: `Blox_ManagerBot` 
 - Version: `3.7.3`
