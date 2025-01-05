@@ -1,10 +1,10 @@
 # Blox Manager
-This is a Discord Bot.
-Bot Name: `Blox Manager` 
-Roblox Bot Account: `Blox_ManagerBot` 
-Version: `3.7.3`
-Language: `Korean`
-How To Contact Developer: `easytopy` <-- Discord ID
+- This is a Discord Bot.
+- Bot Name: `Blox Manager` 
+- Roblox Bot Account: `Blox_ManagerBot` 
+- Version: `3.7.3`
+- Language: `Korean`
+- How To Contact Developer: `easytopy` <-- Discord ID
 
 ---
 #### Since 2020. 9. 10
