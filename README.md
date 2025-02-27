@@ -3,13 +3,12 @@
 #### Bot Status
 - Serer DataBase: 700+
 - Authenticator DataBase: 10k+
-- Premium Server: 150+
-- Joined Server: 550+
+- Premium Server: 200+
+- Joined Server: 600+
 
 ---
 - Bot Name: `Blox Manager` 
 - Roblox Bot Account: `Blox_ManagerBot` 
-- Version: `3.7.3`
 - Language: `Korean`
 - How To Contact Developer: `easytopy` <-- Discord ID
 
