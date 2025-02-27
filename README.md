@@ -1,5 +1,6 @@
 # Blox Manager
 - This is a Discord Bot.
+- This is a bot that has passed Discord's verification process.
 #### Bot Status
 - Serer DataBase: 700+
 - Authenticator DataBase: 10k+
