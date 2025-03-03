@@ -9,7 +9,6 @@
 
 ---
 - Bot Name: `Blox Manager` 
-- Roblox Bot Account: `Blox_ManagerBot` 
 - Language: `Korean`
 - How To Contact Developer: `easytopy` <-- Discord ID
 
