@@ -5,7 +5,7 @@
 - Serer DataBase: 880+
 - Authenticator DataBase: 10k+
 - Premium Server: 250+
-- Joined Server: 600+
+- Joined Server: 750+
 
 ---
 - Bot Name: `Blox Manager` 
