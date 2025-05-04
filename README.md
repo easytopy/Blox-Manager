@@ -2,9 +2,9 @@
 - This is a Discord Bot.
 - This is a bot that has passed Discord's verification process.
 #### Bot Status
-- Serer DataBase: 700+
+- Serer DataBase: 880+
 - Authenticator DataBase: 10k+
-- Premium Server: 200+
+- Premium Server: 250+
 - Joined Server: 600+
 
 ---
